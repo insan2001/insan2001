@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insan2001
 - 👀 I’m interested in Programming and Video editing
-- 🌱 I’m currently learning flutter
+- 🌱 I study computer programming at Seneca college
 - 💞️ I’m looking to collaborate on projects in python
 - 📫 How to reach me insan20011227@gmail.com
 
